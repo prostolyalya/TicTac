@@ -1,0 +1,6 @@
+﻿  MyForm1.cpp
+d:\пары\8 семестр\prog\tictac\tictac\MyForm1.h(443): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\пары\8 семестр\prog\tictac\tictac\MyForm1.h(756): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\пары\8 семестр\prog\tictac\tictac\MyForm1.h(812): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(637,5): error : Element <SubSystem> has an invalid value of "/SUBSYSTEM:WINDOWS".

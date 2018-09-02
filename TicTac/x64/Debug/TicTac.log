@@ -1,0 +1,7 @@
+﻿  MyForm1.cpp
+d:\пары\8 семестр\prog\tictac\tictac\MyForm1.h(468): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\пары\8 семестр\prog\tictac\tictac\MyForm1.h(781): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\пары\8 семестр\prog\tictac\tictac\MyForm1.h(837): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm1.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  TicTac.vcxproj -> D:\Пары\8 Семестр\Prog\TicTac\x64\Debug\TicTac.exe
+  TicTac.vcxproj -> D:\Пары\8 Семестр\Prog\TicTac\x64\Debug\TicTac.pdb (Partial PDB)
